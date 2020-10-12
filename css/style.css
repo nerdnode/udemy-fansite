@@ -1,0 +1,33 @@
+/*tags*/
+
+body {
+	background: linear-gradient(to right, #66ff99 0%, #009900 100%);
+	text-align: center;
+	font-family: "Saira Stencil One";
+}
+
+h1 {
+	font-weight: bold;
+	text-shadow: 1px 1px 1px white;
+	font-size: 3.5rem;
+	letter-spacing: 7px;
+}
+
+p {
+	font-size: 3.7rem;
+	letter-spacing: 3px;
+}
+
+img {
+	width: 23%;
+}
+
+/*class*/
+
+.green {
+	color: green;
+}
+
+.white {
+	color: white;
+}
