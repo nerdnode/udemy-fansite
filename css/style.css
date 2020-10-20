@@ -1,9 +1,10 @@
+
 /*tags*/
 
 body {
 	background: linear-gradient(to right, #66ff99 0%, #009900 100%);
 	text-align: center;
-	font-family: "Saira Stencil One";
+	font-family: 'Saira Stencil One', cursive, sans-serif, serif;
 }
 
 h1 {
