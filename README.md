@@ -1,1 +1,1 @@
-# fansite
+# msu fansite
